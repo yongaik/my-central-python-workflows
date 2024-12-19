@@ -1,0 +1,20 @@
+client id: uxbzDSjmaFJaDd4i10EsYIWypezRDoSw
+client secret id : eAuEoBWVKEXUE6KrjodyK0ZJhYRRDRbA
+token id: 08e2befb-dcc2-48c0-a937-1891241637b3
+
+{"access_token":"XSOQ0jSjLTG9SdNGC4vhdeg2tn3VGikf",
+"appname":"nms",
+"authenticated_userid":"yong-aik.seah@hpe.com",
+"created_at":1734578171528,
+"credential_id":"ef0d0e65-0ffa-4fdf-9a0a-f4cbc5522446",
+"expires_in":7200,
+"id":"08e2befb-dcc2-48c0-a937-1891241637b3",
+"refresh_token":"SPJtLVK6rZwBorKHlJpLvQwzA8W7xOkZ",
+"scope":"all",
+"token_type":"bearer"}
+
+
+https://internal-apigw.central.arubanetworks.com/swagger/apps/nms/
+## ==================
+
+{"access_token":"VcRbdG79Xve8t9eImjdhK6mSgOz3HD8q","appname":"nms","authenticated_userid":"yong-aik.seah@hpe.com","created_at":1734619912890,"credential_id":"ef0d0e65-0ffa-4fdf-9a0a-f4cbc5522446","expires_in":7200,"id":"8b182cae-bedc-41b5-b4ee-3e03b3f7641c","refresh_token":"ppak9NP0KKfEK4Ecinrp4cMDEegCRfqQ","scope":"all","token_type":"bearer"}
